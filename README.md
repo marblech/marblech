@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @marblech
-- 👀 I’m interested in Machine Learning, C++ and Games
+- 👀 I’m interested in Machine Learning, C++ and Play LOL Games
 - 🌱 I’m currently learning C++ and Machine Learning
 - 💞️ I’m looking to collaborate on Ship Detection and Cam PTZ control 
 - 📫 How to reach me ... send me email to marblech@gmail.com
